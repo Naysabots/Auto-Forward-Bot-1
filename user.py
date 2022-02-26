@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) TRTECHGUIDE
+# (c) Tellybots
 
 from config import Config
 from config import LOGGER
